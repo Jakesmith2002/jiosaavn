@@ -7,3 +7,4 @@ humanfriendly
 python-dotenv
 tgcrypto-pyrofork
 aiohttp[speedups]
+flask
